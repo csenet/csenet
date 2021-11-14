@@ -1,7 +1,7 @@
 ![VOID's GitHub stats](https://github-readme-stats.vercel.app/api?username=csenet&count_private=true&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csenet&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=csenet&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> 
    <a href="http://twitter.com/KOU3141592">
