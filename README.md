@@ -1,7 +1,7 @@
-![VOID's GitHub stats](https://github-readme-stats.vercel.app/api?username=csenet&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csenet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![VOID's GitHub stats](https://github-readme-stats.vercel.app/api?username=csenet&count_private=true&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csenet&layout=compact)](https://github.com/anuraghazra/github-readme-stats?theme=gruvbox)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=csenet)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=csenet)](https://github.com/ryo-ma/github-profile-trophy?theme=gruvbox)
 
 <p align="left"> 
    <a href="http://twitter.com/KOU3141592">
