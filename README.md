@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=csenet)](https://github.com/ryo-ma/github-profile-trophy?theme=gruvbox)
 
 <p align="left"> 
-   <a href="http://twitter.com/KOU3141592">
+   <a href="http://twitter.com/k1h_tech">
     <img height="20" src="https://img.shields.io/twitter/follow/k1h_tech?label=Twitter&logo=twitter&style=flat" />
   </a>
    <a href="https://github.com/csenet">
