@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csenet&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=csenet&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azuki-bar&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csenet&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <img src="https://wakatime.com/share/@80e0c1c6-1963-49ab-9624-da3fb2bb3c5f/a19dc6c4-409b-4899-b999-98afa392bc56.svg">
