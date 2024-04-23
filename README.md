@@ -1,9 +1,9 @@
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=arduino,aws,bash,bootstrap,c,cloudflare,cmake,css,deno,discord,bots,docker,fastapi,firebase,flask,gcp,git,github,githubactions,go,html,idea,js,kubernetes,latex,md,mongodb,mysql,nextjs,nginx,nodejs,nuxtjs,postgres,postman,py,raspberrypi,redis,ruby,sqlite,twitter,ts,vscode)](https://skillicons.dev)
 
-![k1h's GitHub stats](https://github-readme-stats.vercel.app/api?username=csenet&count_private=true&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csenet&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=csenet&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![k1h's GitHub stats](https://github-readme-stats.vercel.app/api?username=csenet&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csenet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=csenet&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 <img src="https://wakatime.com/share/@80e0c1c6-1963-49ab-9624-da3fb2bb3c5f/a19dc6c4-409b-4899-b999-98afa392bc56.svg">
